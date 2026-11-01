@@ -1,0 +1,1 @@
+# BuvanAlfarezy_Test2_KlasifikasiCNN
